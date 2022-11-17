@@ -12,7 +12,7 @@ public class Vehiculo {
 
 
     /*Constructor*/
-    public void Vehiculo(){
+    public Vehiculo(){
         marca = "Tesla";
         modelo = "S";
         placa = "PIJK-1593";
