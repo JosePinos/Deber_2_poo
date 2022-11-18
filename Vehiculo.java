@@ -83,6 +83,8 @@ public class Vehiculo {
         System.out.println("Año: " + getAnio());
         System.out.println("Número de Puertas: " + getN_puertas());
         System.out.println("Precio: " + getPrecio());
+
+        System.out.println("\n------------------------------\n");
     }
 
 }//fin de la clase Vehiculo
